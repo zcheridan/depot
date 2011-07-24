@@ -1,5 +1,9 @@
 /* Global styles */
 
+#time {
+	text-aligh: center;
+	color: #FFFFFF;
+}
 #banner {
 	background: #9c9;
 	padding-top: 10px;
